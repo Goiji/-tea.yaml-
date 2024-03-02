@@ -1,2 +1,2 @@
-# -tea.yaml-
-[tea.yaml]
+# tea
+tea
